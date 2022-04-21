@@ -5,9 +5,9 @@ model = rh.model;
 var defaultTopic = "Electronic_Health_Record/Appointment_Scheduler/EHR.htm";
 rh._.exports(defaultTopic);
 rh.consts('DEFAULT_TOPIC', encodeURI("Electronic_Health_Record/Appointment_Scheduler/EHR.htm"));
-rh.consts('HOME_FILEPATH', encodeURI('index.htm'));
+rh.consts('HOME_FILEPATH', encodeURI('index.html'));
 rh.consts('START_FILEPATH', encodeURI('topic.htm'));
-rh.consts('HELP_ID', '13944cea-d860-44a9-9996-8ceed5b7b4e2' || 'preview');
+rh.consts('HELP_ID', '462556b4-1397-44a5-9f7a-e8d54c9e09c9' || 'preview');
 rh.consts('LNG_SUBSTR_SEARCH', 0);
 
 model.publish(rh.consts('KEY_LNG_NAME'), "en");

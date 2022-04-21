@@ -1,1 +1,1 @@
-rh._.exports({"0":[[" ","Reports"]],"1":[[" ","Reports"," ","Help is on the way!"]],"2":[[" ","The help for this feature has not been developed yet. Check back soon. There will be step-by-step instructions for using this screen."]],"id":"2"})
+rh._.exports({"0":[[" ","Vitals"]],"1":[[" ","Vitals"," ","Help is on the way!"]],"2":[[" ","The help for this feature has not been developed yet. Check back soon. There will be step-by-step instructions for using this screen."]],"id":"2"})
