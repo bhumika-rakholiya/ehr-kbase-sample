@@ -1,0 +1,1 @@
+rh._.exports({"0":[[" ","Care Plan"]],"1":[[" ","Care Plan"," ","Help is on the way!"]],"2":[[" ","The help for this feature has not been developed yet. Check back soon. There will be step-by-step instructions for using this screen."]],"id":"5"})

@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Check-in","type":"item","tilePath":"","description":"","url":"Electronic_Health_Record/Dashboard/Patient_Chart.htm"},{"name":"Check-Out","type":"item","tilePath":"","description":"","url":"Electronic_Health_Record/Dashboard/Check-out.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

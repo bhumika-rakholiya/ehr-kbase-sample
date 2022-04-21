@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Quality Reports","type":"item","tilePath":"","description":"","url":"Electronic_Health_Record/Quality_Reports.htm"},{"name":"KPI ","type":"item","tilePath":"","description":"","url":"Electronic_Health_Record/KPI.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

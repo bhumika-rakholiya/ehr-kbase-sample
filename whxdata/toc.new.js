@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"Electronic Health Record","type":"book","tilePath":"","description":"","url":"Electronic_Health_Record/Appointment_Scheduler/EHR.htm","key":"toc1"},{"name":"Release Note","type":"book","tilePath":"","key":"toc7"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
