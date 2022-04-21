@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="EHR Knowledge Base" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Electronic_Health_Record\Appointment_Scheduler\EHR.htm">
+    
+    <topic>
+      Electronic_Health_Record\Appointment_Scheduler\EHR.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Appointment_Scheduler\Schedule_Appointment.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Dashboard\Patient_Chart.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Dashboard\Check-out.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Registration\Dashboard.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Registration\Edit_Patient.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Lab_Results.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Diagnostic_Reports.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Rx.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Immunization.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Vitals.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Reports.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Allergies.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Patient_History.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Patient_Chart\Care_Plan.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\Quality_Reports.htm
+    </topic>
+    
+    <topic>
+      Electronic_Health_Record\KPI.htm
+    </topic>
+    
+    <topic>
+      Release_Note\Billing_Release_Note.htm
+    </topic>
+    
+    <topic>
+      Release_Note\Patient_Demographics_Release_Note.htm
+    </topic>
+    
+    <topic>
+      Release_Note\Patient_Portal_Release_Note.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
